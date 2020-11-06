@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-
 #define MAX 50
 
 using namespace std;
